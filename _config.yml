@@ -1,9 +1,9 @@
 # Site settings
-title:       IdeaLab CST Blog
+title:       IdeaLab CPT Blog
 email:       ab.idealab@gmail.com
 author:      Infant Derrick Gnanasusairaj
-description: "The Blog for the CST stream for IdeaLab"
-baseurl:     "/cst-blog"
+description: "The Blog for the CPT stream for IdeaLab"
+baseurl:     "/cpt-blog"
 url:         ""
 date_format: "%b %-d, %Y"
 header_pages:
