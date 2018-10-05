@@ -14,4 +14,4 @@ first place.
 Then, we showed how to convert from base 10 to base n and vice-versa.
 After learning these techniques, we began to solve the problem
 sets for this topic, which can be found
-[here]({{ site.url }}/misc_files/comp-number-systems.pdf)
+[here]({{ site.url }}/cpt-blog/misc_files/comp-number-systems.pdf)
