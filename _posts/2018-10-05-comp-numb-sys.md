@@ -36,7 +36,7 @@ are converting from base 10 to base n, and vice-versa. Both are described
 in further detail in the problem set.
 
 For practice, try solving the problems linked
-[here.]({{ site.url }}/cpt-blog/misc_files/comp-number-systems.pdf)
+[here.]({{ site.url }}/cpt-blog/tutorials/comp-number-systems.pdf)
 Think about the process rather than applying memorized techniques:
 jot down any information you see or patterns you observe, and view
 exploring the problem in any manner as progress.
