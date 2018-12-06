@@ -21,11 +21,11 @@ actually access individual variables during a program's execution,
 so if something goes wrong it uses the filename to identify
 the respective student. We will decide on a "prob_name" right
 after we receive the problem on Friday. This variable
-to be consistent among everyone's code.
+must be consistent among everyone's code.
 
 2. *Print your name as the first line of the .out
 file.* As mentioned earlier, the grader can't actually access
-the your_name variable. It can, however, parse the .out
+the "your_name" variable. It can, however, parse the .out
 file. For every student's code, it expects the first line
 of the output file to be his/her name, using the filename
 as a backup. Note the disastrous consequences if it expects
