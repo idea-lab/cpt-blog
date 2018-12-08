@@ -67,7 +67,7 @@ from `{prob_name}.in`.
 with the grader.* If you must, you can create more classes,
 but they should be static and should be included in the same file.
 
-6. *The grader will give each program 3 seconds to chug through
+6. *The grader will give each program 5 seconds to chug through
 all 5 test cases.* Bad things happen if you exceed this limit,
 so please try to write code that doesn't take "wicked long",
 as McClung would say.
