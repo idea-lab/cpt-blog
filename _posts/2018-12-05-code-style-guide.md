@@ -110,7 +110,7 @@ public class theorem_johnny_postulate {
         PrintWriter out = new PrintWriter(new FileWriter(prob_name + ".out"), true);
         out.println(your_name);
 
-        for (int l = 0; l < 5; l++) {
+        for (int test_case = 0; test_case < 5; test_case++) {
             try {
                 // read in input
                 String raw_input = sc.nextLine();
@@ -119,9 +119,9 @@ public class theorem_johnny_postulate {
                 // do calculations
 
                 // output answer to test case
-                out.println("bill noeth");
+                out.println("Bill Noeth");
             } catch (Exception e) {
-                System.out.println("Something's wrong with this test case");
+                out.println("Something's wrong with this test case");
                 e.printStackTrace();
             }
         }
