@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Coding Problem Style Guide
-date:       2018-12-05 05:42:29
+title:      ACSL Coding Problem Style Guide
+date:       2020-12-05 05:42:29
 summary:    TODO's for the ACSL coding problem to ensure proper grading
 author:     Sanjit Bhat
 categories: info
