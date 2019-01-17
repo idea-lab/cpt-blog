@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      PSETS for January ACSL
+date:       2019-1-17
+summary:    Topics include Prefix/Postfix/Infix Notation, Bit-String Flicking, and Lisp.
+categories: comp2
+---
+
+Below are the self-contained guides to the January ACSL contest.
+They include topic explanations, useful resources, practice exercises, and answers.
+
+* [Prefix/Postfix/Infix Notation]({{ site.url }}/cpt-blog/tutorials/Prefix-Postfix-Infix.pdf)
+* [Bit-String Flicking]({{ site.url }}/cpt-blog/tutorials/Bit-String-Flicking.pdf)
+* [Lisp]({{ site.url }}/cpt-blog/tutorials/Lisp.pdf)
