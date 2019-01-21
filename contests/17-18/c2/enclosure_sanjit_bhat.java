@@ -18,7 +18,7 @@ public class enclosure_sanjit_bhat {
         PrintWriter out = new PrintWriter(new FileWriter(prob_name + ".out"), true);
         out.println(your_name);
 
-        // Note: watch out when testing this problem. ACSL incorrectly uses different '-' chars in different test cases
+        // Note: watch out when testing this problem. ACSL stupidly uses different minus sign chars in different test cases
         for (int test_case = 0; test_case < 10; test_case++) {
             try {
                 // read in input
@@ -26,7 +26,7 @@ public class enclosure_sanjit_bhat {
                 raw_input = "+" + raw_input + "+";  // for one indexing and end curly brace case
 
                 // identify missing enclosure
-                char[] operators = {'+', '−', '–', '*', '/'};  // see the note in line 21
+                char[] operators = {'+', 8211, 8722, '*', '/'};  // see note in line 21. The numbers are ASCII values for two different minus sign chars
                 char[] enclosures = {'{', '[', '(', ')', ']', '}'};
                 boolean[] enclosures_exist = new boolean[6];
                 for (int i = 0; i < enclosures.length; i++) {
