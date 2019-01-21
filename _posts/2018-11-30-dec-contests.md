@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Practice Contests for December ACSL
+title:      Practice Contests for Dec ACSL
 date:       2018-11-30
 author:     Sanjit Bhat
 summary:    Files from 2016-17 and 2017-18 December ACSL

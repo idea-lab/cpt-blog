@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Practice Contests for January ACSL
+title:      Practice Contests for Jan ACSL
 date:       2019-1-21
 author:     Sanjit Bhat
 summary:    Problems and solutions from 2016-17 and 2017-18 January ACSL
