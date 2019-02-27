@@ -94,7 +94,7 @@ is `theorem_johnny_postulate.java`.
 Johnny Postulate
 ACSL theorem
 Contest #1 2018-19
-Acton Boxborough Regional High School
+Acton-Boxborough Regional High School
 Senior Division
 */
 
